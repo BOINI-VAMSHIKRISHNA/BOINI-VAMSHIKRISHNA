@@ -96,15 +96,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/yourusername" target="blank">
+<a href="https://github.com/BOINI-VAMSHIKRISHNA" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin" target="blank">
+<a href="www.linkedin.com/in/boini-vamshi-krishna-b88b33265" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:boinivamshi.3686@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
