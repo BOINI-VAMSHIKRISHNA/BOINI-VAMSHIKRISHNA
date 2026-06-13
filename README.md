@@ -100,7 +100,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="www.linkedin.com/in/boini-vamshi-krishna-b88b33265" target="blank">
+<a href="https://www.linkedin.com/in/boini-vamshi-krishna-b88b33265" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
